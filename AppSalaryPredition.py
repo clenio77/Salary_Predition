@@ -5,7 +5,7 @@ from PIL import Image
 
 st.set_page_config(page_title = 'App Salary Prediction - Powered by Streamlit',
 				   page_icon = 'logo-salary.png',
-				   layout = 'centered', 
+				   layout = 'wide',
 				   initial_sidebar_state = 'auto')
 
 modelo = load_model('modelo-para-previsao-de-salario')
