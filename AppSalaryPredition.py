@@ -18,7 +18,7 @@ def ler_dados():
 
 dados = ler_dados()  
 
-st.image('banner-real3.png', use_column_width = 'always')
+st.image('banner-clenio.png', use_column_width = 'always')
 
 st.sidebar.write('''
 # :sparkles: **App [Salary Prediction](https://www.clenio77.github.io/)**
