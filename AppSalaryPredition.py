@@ -4,7 +4,7 @@ from pycaret.classification import load_model, predict_model
 from PIL import Image
 
 st.set_page_config(page_title = 'App Salary Prediction - Powered by Streamlit',
-				   page_icon = 'logo-salary.png',
+				   page_icon = 'icon.png',
 				   layout = 'wide',
 				   initial_sidebar_state = 'auto')
 
@@ -64,7 +64,7 @@ if pagina == 'Home':
 	
 	Os modelos são desenvolvidos e analisados utilizando a biblioteca [PyCaret](https://pycaret.org/).
 	
-	Caso encontre algum erro/bug, por favor, não hesite em entrar em contato! :poop:
+	Caso encontre algum erro/bug, por favor, não hesite em entrar em contato! :smiley:
 	
 	[instagram](https://instagram.com/afonso.clenio/)   -   [Twitter](https://twitter.com/clenioafonso)   -   [Email](mailto:clenioti@gmail.com)
 	
@@ -296,7 +296,7 @@ if pagina == 'Sobre':
 	Não deixe de explorar os recursos do streamlit. Aprenda, crie, desenvolva. \
 		Faça o que ninguém fez ainda. Vá além. 
 
-	*#itstimetoflai* :rocket:
+	*#Clenio* :rocket:
 
 	---
 	
