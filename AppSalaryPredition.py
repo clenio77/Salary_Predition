@@ -60,7 +60,7 @@ if pagina == 'Home':
 	Os modelos desse web-app foram desenvolvidos utilizando o conjunto de 
 	dados que pode ser encontrado nesse [link do kaggle](https://www.kaggle.com/datahackers/pesquisa-data-hackers-2019).
 	
-	Os arquivos para gerar esse aplicativo estão nesse [link](https://github.com/gitflai/imersao). 
+	Os arquivos para gerar esse aplicativo estão nesse [link](https://github.com/clenio77/Salary_Predition). 
 	
 	Os modelos são desenvolvidos e analisados utilizando a biblioteca [PyCaret](https://pycaret.org/).
 	
@@ -311,7 +311,7 @@ if pagina == 'Código':
 
 	st.markdown('''
 		## **Código para gerar esse app**
-		Também pode ser encontrado [aqui](https://github.com/gitflai/imersao)
+		Também pode ser encontrado [aqui](https://github.com/clenio77/Salary_Predition)
 		''')
 	code = '''
 def hello():
